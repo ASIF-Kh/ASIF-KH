@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ASIF IQBAL KHAN</h1>
 <h3 align="center">A passionate Machine Learning Student from India</h3>
 
+[![An image of @asifkh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asifkh)](https://holopin.io/@asifkh)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-kh&label=Profile%20views&color=0e75b6&style=flat" alt="asif-kh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif-kh" alt="asif-kh" /></a> </p>
