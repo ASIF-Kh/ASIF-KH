@@ -15,6 +15,11 @@
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
+### Contribution Graph
+
+<!-- <br clear="both"> -->
+<img src="https://raw.githubusercontent.com/asif-kh/asif-kh/output/snake.svg" alt="Snake animation" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
